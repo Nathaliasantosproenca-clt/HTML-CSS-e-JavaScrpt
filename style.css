@@ -1,6 +1,16 @@
 body{
     background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
 }
 p{
     color: aliceblue;
+}
+button {
+    background-color: wheat;
+    color: black;
+    font-family: "Bai Jamjuree", sans-serif;
 }
